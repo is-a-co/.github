@@ -1,14 +1,8 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68675629/212543631-1ac9a9d0-e2fe-4392-b76f-ef352d0fe29c.png" width=100 length=100>
-</p>
-
-<p align="center">
    <img alt="Domains" src="https://img.shields.io/github/directory-file-count/is-a-co/register/domains?color=5c46eb&label=domains&style=for-the-badge">
    <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-raw/is-a-co/register?color=5c46eb&label=issues&style=for-the-badge">
    <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/is-a-co/register?color=5c46eb&label=pull%20requests&style=for-the-badge">
 </p>
-
-<p align="center"><strong>is-a-dev</strong> is a service that allows developers to get a ".is-a.co" domain for their personal and startup websites</p>
 
 ## Registration
 Try out our new fast and easy subdomain registration service [here](https://register.is-a.co)!
